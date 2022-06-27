@@ -1,4 +1,4 @@
-package com.axelspringer.userposts.model;
+package com.axelspringer.userposts.dto;
 
 public record User(
     Long id,

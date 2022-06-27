@@ -1,6 +1,6 @@
 package com.axelspringer.userposts.service;
 
-import com.axelspringer.userposts.model.Post;
+import com.axelspringer.userposts.dto.Post;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Flux;
